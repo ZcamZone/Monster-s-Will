@@ -1,0 +1,15 @@
+{
+    "pack": {
+        "pack_format": 34,
+		"supported_formats": [22, 34],
+        "description": "\u00A77Monster's Will v.1\n\u00A75zcamzone on Discord"
+    },
+	"overlays": {
+		"entries": [
+			{
+				"formats": {"min_inclusive": 18, "max_inclusive": 2147483647},
+				"directory": "overlay_18"
+			}
+		]
+	}
+}
